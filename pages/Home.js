@@ -31,7 +31,7 @@ export default function Home({ navigation }) {
                 <Card click={NavigatePowerlifting} source={powerliftingCard} />
                 <Card click={NavigatePushUps} source={pushUpsCard} />
             </View>
-        </SafeAreaView >
+        </SafeAreaView>
     );
 }
 
